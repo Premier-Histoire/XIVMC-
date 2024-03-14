@@ -9,43 +9,136 @@
     <div class="main-weapon category-button">
         <p>MAIN ARM/SUB ARM</p>
         <div class="button-container">
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="片手剣">
+                <img src="../assets/img/060102.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="斧">
+                <img src="../assets/img/060103.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="両手剣">
+                <img src="../assets/img/060170.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="ガンブレード">
+                <img src="../assets/img/060181.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="槍">
+                <img src="../assets/img/060104.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="両手鎌">
+                <img src="../assets/img/060183.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="格闘武器">
+                <img src="../assets/img/060101.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="刀">
+                <img src="../assets/img/060177.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="双剣">
+                <img src="../assets/img/060106.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="弓">
+                <img src="../assets/img/060105.png">
+            </button>
         </div>
         <div class="button-container">
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="銃">
+                <img src="../assets/img/060172.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="投擲武器">
+                <img src="../assets/img/060182.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="呪具">
+                <img src="../assets/img/060108.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="魔導書">
+                <img src="../assets/img/060109.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="細剣">
+                <img src="../assets/img/060176.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="幻具">
+                <img src="../assets/img/060107.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="魔導書(学者専用)">
+                <img src="../assets/img/060178.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="天球儀">
+                <img src="../assets/img/060171.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="賢具">
+                <img src="../assets/img/060184.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="木工道具">
+                <img src="../assets/img/060112.png">
+            </button>
         </div>
         <div class="button-container">
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="鍛冶道具">
+                <img src="../assets/img/060113.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="甲冑道具">
+                <img src="../assets/img/060114.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="彫金道具">
+                <img src="../assets/img/060115.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="革細工道具">
+                <img src="../assets/img/060116.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="裁縫道具">
+                <img src="../assets/img/060117.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="錬金道具">
+                <img src="../assets/img/060118.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="調理道具">
+                <img src="../assets/img/060119.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="採掘道具">
+                <img src="../assets/img/060120.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="園芸道具">
+                <img src="../assets/img/060121.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="漁道具">
+                <img src="../assets/img/060122.png">
+            </button>
         </div>
         <div class="button-container-last">
-            <button class="button"></button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="釣り餌">
+                <img src="../assets/img/060123.png">
+            </button>
         </div>
         <div class="level-selector-container">
             <div class="level-selector">
@@ -59,16 +152,46 @@
     <div class="main-weapon category-button">
         <p>ARMOR/ACCESSORIES</p>
         <div class="button-container">
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="盾">
+                <img src="../assets/img/060110.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="頭防具">
+                <img src="../assets/img/060124.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="胴防具">
+                <img src="../assets/img/060126.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="手防具">
+                <img src="../assets/img/060129.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="脚防具">
+                <img src="../assets/img/060128.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="足防具">
+                <img src="../assets/img/060130.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="耳飾り">
+                <img src="../assets/img/060133.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="首飾り">
+                <img src="../assets/img/060132.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="腕輪">
+                <img src="../assets/img/060134.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="指輪">
+                <img src="../assets/img/060135.png">
+            </button>
         </div>
         <div class="level-selector-container">
             <div class="level-selector">
@@ -126,58 +249,149 @@
     <div class="main-weapon category-button">
         <p>OTHERS</p>
         <div class="button-container">
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="薬品">
+                <img src="../assets/img/060136.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="食材">
+                <img src="../assets/img/060137.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="調理品">
+                <img src="../assets/img/060146.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="水産物">
+                <img src="../assets/img/060138.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="石材">
+                <img src="../assets/img/060139.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="金属材">
+                <img src="../assets/img/060140.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="木材">
+                <img src="../assets/img/060141.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="布材">
+                <img src="../assets/img/060142.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="皮革材">
+                <img src="../assets/img/060143.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="骨材">
+                <img src="../assets/img/060144.png">
+            </button>
         </div>
         <div class="button-container">
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="錬金術材">
+                <img src="../assets/img/060145.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="染料">
+                <img src="../assets/img/060147.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="部品">
+                <img src="../assets/img/060148.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="マテリア">
+                <img src="../assets/img/060150.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="クリスタル">
+                <img src="../assets/img/060151.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="触媒">
+                <img src="../assets/img/060152.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="雑貨">
+                <img src="../assets/img/060153.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="雑貨(シーズナル)">
+                <img src="../assets/img/060154.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="雑貨(習得/登録系)">
+                <img src="../assets/img/060185.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="ミニオン">
+                <img src="../assets/img/060155.png">
+            </button>
         </div>
         <div class="button-container">
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="飛空艇・潜水艦部品">
+                <img src="../assets/img/060169.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="オーケストリオン関連品">
+                <img src="../assets/img/060173.png">
+            </button>
         </div>
     </div>
     <div class="main-weapon category-button">
         <p>HOUSING</p>
         <div class="button-container">
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
-            <button class="button"></button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="外装建材">
+                <img src="../assets/img/060160.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="内装建材">
+                <img src="../assets/img/060161.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="庭具">
+                <img src="../assets/img/060168.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="調度品(一般)">
+                <img src="../assets/img/060164.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="調度品(椅子・寝台)">
+                <img src="../assets/img/060165.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="'調度品(台座)">
+                <img src="../assets/img/060162.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="調度品(卓上)">
+                <img src="../assets/img/060163.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="調度品(壁掛)">
+                <img src="../assets/img/060166.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="調度品(敷物)">
+                <img src="../assets/img/060167.png">
+            </button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="栽培用品">
+                <img src="../assets/img/060174.png">
+            </button>
         </div>
         <div class="button-container">
-            <button class="button"></button>
+            <button class="button" data-bs-toggle="tooltip" data-bs-placement="top"
+                data-bs-custom-class="custom-tooltip" data-offset="0, 10" title="絵画">
+                <img src="../assets/img/060175.png">
+            </button>
         </div>
     </div>
 </template>
@@ -260,14 +474,15 @@ export default {
     height: 20px;
     padding: 0;
     font-size: 0;
-    background-color: #007bff;
+    background-color: #313031;
     border: none;
     cursor: pointer;
 }
 
 /* ホバー時のスタイル */
 .button:hover {
-    background-color: #0056b3;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.24);
+    transform: translate(0, -2px);
 }
 
 .level-selector-container {
